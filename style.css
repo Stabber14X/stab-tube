@@ -1,0 +1,122 @@
+*{
+    background-color: wheat;
+}
+.logo{
+    background-color: red;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.search{
+    margin-left: 450px;
+    display: inline;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.upload{
+    margin-left: 200px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.signup{
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.one{
+margin-left: 550px;
+margin-top: 200px;
+}
+.first{
+    margin-left: 630px;
+    font-size: 25px;
+}
+.two{
+    margin-left: 550px;
+  margin-top: 50px;
+}
+.second{
+    margin-left: 590px;
+    font-size: 25px;
+}
+.three{
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.third{
+    margin-left: 590px;
+    font-size: 25px;
+}
+@media screen and (max-width: 768px)
+{
+    .logo{
+        background-color: red;
+        border: none;
+        color: white;
+        height: 30px;
+        width: 80px;
+        font-size: 15px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .search{
+        margin-left: 15px;
+        display: inline;
+        font-size: 7px;
+        border-radius: 10px;
+    }
+    .upload{
+        margin-left: 20px;
+        background-color: red;
+        color: white;
+        font-size: 10px;
+        border:none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .signup{
+        margin-left: 3px;
+        background-color: red;
+        color: white;
+        font-size: 10px;
+        border:none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .one{
+    margin-left: 80px;
+    margin-top: 100px;
+    }
+    .first{
+        margin-left: 110px;
+        font-size: 15px;
+    }
+    .two{
+        margin-left: 80px;
+      margin-top: 20px;
+    }
+    .second{
+        margin-left: 80px;
+        font-size: 15px;
+    }
+    .three{
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+    .third{
+        margin-left: 85px;
+        font-size: 15px;
+    }
+}
